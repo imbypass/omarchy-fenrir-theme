@@ -6,7 +6,7 @@
 
 	/* destructive-action buttons */
     --adw-destructive-bg-rgb: 196, 78, 85 !important;
-    --adw-destructive-fg-rgb: 212, 212, 212 !important;
+    --adw-destructive-fg-rgb: 155, 155, 155 !important;
     --adw-destructive-rgb: 196, 78, 85 !important;
 
 	/* Levelbars, entries, labels and infobars. These don't need text colors */
@@ -25,15 +25,15 @@
 
 	/* Window */
     --adw-window-bg-rgb: 20, 20, 20 !important;
-    --adw-window-fg-rgb: 212, 212, 212 !important;
+    --adw-window-fg-rgb: 155, 155, 155 !important;
 
 	/* Views - e.g. text view or tree view */
     --adw-view-bg-rgb: 20, 20, 20 !important;
-    --adw-view-fg-rgb: 212, 212, 212 !important;
+    --adw-view-fg-rgb: 155, 155, 155 !important;
 
 	/* Header bar, search bar, tab bar */
     --adw-headerbar-bg-rgb: 20, 20, 20 !important;
-    --adw-headerbar-fg-rgb: 212, 212, 212 !important;
+    --adw-headerbar-fg-rgb: 155, 155, 155 !important;
     --adw-headerbar-border-rgb: 36, 36, 36 !important;
     --adw-headerbar-backdrop-rgb: 20, 20, 20 !important;
     --adw-headerbar-shade-rgb: 0, 0, 0 !important;
@@ -43,12 +43,12 @@
 
 	/* Split pane views */
     --adw-sidebar-bg-rgb: 20, 20, 20 !important;
-    --adw-sidebar-fg-rgb: 212, 212, 212 !important;
+    --adw-sidebar-fg-rgb: 155, 155, 155 !important;
     --adw-sidebar-backdrop-rgb: 36, 36, 36 !important;
     --adw-sidebar-shade-rgb: 0, 0, 0 !important;
     --adw-sidebar-shade-a: 0.36 !important;
     --adw-secondary-sidebar-bg-rgb: 20, 20, 20 !important;
-    --adw-secondary-sidebar-fg-rgb: 212, 212, 212 !important;
+    --adw-secondary-sidebar-fg-rgb: 155, 155, 155 !important;
     --adw-secondary-sidebar-backdrop-rgb: 36, 36, 36 !important;
     --adw-secondary-sidebar-shade-rgb: 0, 0, 0 !important;
     --adw-secondary-sidebar-shade-a: 0.36 !important;
@@ -62,11 +62,11 @@
 
 	/* Dialogs */
     --adw-dialog-bg-rgb: 20, 20, 20 !important;
-    --adw-dialog-fg-rgb: 212, 212, 212 !important;
+    --adw-dialog-fg-rgb: 155, 155, 155 !important;
 
     /* Popovers */
     --adw-popover-bg-rgb: 20, 20, 20 !important;
-    --adw-popover-fg-rgb: 212, 212, 212 !important;
+    --adw-popover-fg-rgb: 155, 155, 155 !important;
     --adw-popover-shade-rgb: 0, 0, 0 !important;
     --adw-popover-shade-a: 0.36 !important;
 

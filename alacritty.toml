@@ -6,7 +6,7 @@ transparent_background_colors = true
 
 [colors.primary]
 background = "#141414"
-foreground = "#d4d4d4"
+foreground = "#9b9b9b"
 
 [colors.normal]
 black = "#141414"
@@ -14,8 +14,8 @@ red = "#c44e55"
 green = "#95cc8f"
 yellow = "#edd89a"
 blue = "#88b4df"
-magenta = "#ba5388"
-cyan = "#884bba"
+magenta = "#b0638a"
+cyan = "#78ccb7"
 white = "#9b9b9b"
 
 [colors.bright]
@@ -24,6 +24,6 @@ red = "#c8585d"
 green = "#addfa6"
 yellow = "#fae5a7"
 blue = "#8fbde6"
-magenta = "#cf5c97"
-cyan = "#9e5ccf"
+magenta = "#c97fa5"
+cyan = "#91dbc9"
 white = "#c7c7c7"
